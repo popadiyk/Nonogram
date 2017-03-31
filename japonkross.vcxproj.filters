@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Файлы исходного кода">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Заголовочные файлы">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Файлы ресурсов">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="checkPoint.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="drawDecide.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="otherFunction.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+    <ClCompile Include="allegro.cpp">
+      <Filter>Файлы исходного кода</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="map1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map3.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map4.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map5.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map6.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map7.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map8.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map9.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="suppField1.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="users.txt">
+      <Filter>Заголовочные файлы</Filter>
+    </None>
+    <None Include="map2.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="setting.txt">
+      <Filter>Заголовочные файлы</Filter>
+    </None>
+    <None Include="map50.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map49.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map48.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map29.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map30.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map31.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map32.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map33.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map34.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map35.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map36.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map37.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map38.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map39.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map40.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map42.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map41.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map43.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map44.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map45.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map46.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map47.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map22.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map23.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map24.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map25.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map26.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map27.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map28.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map21.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map20.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map19.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map18.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map17.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map16.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map15.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map10.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map14.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map11.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map12.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+    <None Include="map13.txt">
+      <Filter>Файлы ресурсов</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header.h">
+      <Filter>Заголовочные файлы</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,57 @@
+﻿Построение начато 24.11.2016 13:17:37.
+     1>Проект "C:\Users\ПК\Documents\Visual Studio 2010\Projects\sudoku v1.0\japonkross\japonkross\japonkross.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\japonkross.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt allegro.cpp
+         allegro.cpp
+     1>c:\users\пк\documents\visual studio 2010\projects\sudoku v1.0\japonkross\japonkross\header.h(88): warning C4091: extern : пропускается слева от "button_level", когда ни одна переменная не объявлена
+     1>allegro.cpp(154): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(213): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325): см. объявление "sscanf"
+     1>allegro.cpp(237): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\stdio.h(325): см. объявление "sscanf"
+     1>allegro.cpp(265): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(615): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(633): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(677): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(697): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(712): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(713): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(719): warning C4101: ev1: неиспользованная локальная переменная
+     1>allegro.cpp(764): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(798): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+     1>allegro.cpp(903): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\include\string.h(105): см. объявление "strcpy"
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ПК\Documents\Visual Studio 2010\Projects\sudoku v1.0\japonkross\Release\japonkross.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\ПК\Documents\Visual Studio 2010\Projects\sudoku v1.0\allegro-5.0.10-msvc-10.0\lib" "allegro-5.0.10-monolith-md.lib" "allegro_image-5.0.10-static-mt.lib" "allegro_audio-5.0.10-static-mt.lib" "allegro_color-5.0.10-static-mt.lib" "allegro_dialog-5.0.10-static-mt.lib" "allegro_font-5.0.10-static-mt.lib" "allegro_memfile-5.0.10-static-mt.lib" "allegro_physfs-5.0.10-static-mt.lib" "allegro_primitives-5.0.10-static-mt.lib" "allegro_ttf-5.0.10-static-mt.lib" "allegro-5.0.10-monolith-static-mt.lib" "dumb-0.9.3-static-mt.lib" "freetype-2.4.8-static-mt.lib" "libFLAC-1.2.1-static-mt.lib" "libogg-1.2.1-static-mt.lib" "libvorbis-1.3.2-static-mt.lib" "libvorbisfile-1.3.2-static-mt.lib" "openal-1.14-static-mt.lib" "zlib-1.2.5-static-mt.lib" winmm.lib opengl32.lib gdiplus.lib psapi.lib shlwapi.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\japonkross.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\ПК\Documents\Visual Studio 2010\Projects\sudoku v1.0\japonkross\Release\japonkross.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ПК\Documents\Visual Studio 2010\Projects\sudoku v1.0\japonkross\Release\japonkross.lib" /MACHINE:X86 Release\allegro.obj
+         Release\checkPoint.obj
+         Release\drawDecide.obj
+         Release\main.obj
+         Release\otherFunction.obj
+         Создание кода
+     1>c:\users\пк\documents\visual studio 2010\projects\sudoku v1.0\japonkross\japonkross\otherfunction.cpp(129): warning C4700: использована неинициализированная локальная переменная "user_exit"
+     1>c:\users\пк\documents\visual studio 2010\projects\sudoku v1.0\japonkross\japonkross\allegro.cpp(1536): warning C4715: readkey: значение возвращается не при всех путях выполнения
+     1>c:\users\пк\documents\visual studio 2010\projects\sudoku v1.0\japonkross\japonkross\main.cpp(112): warning C4700: использована неинициализированная локальная переменная "fmap"
+         Создание кода завершено
+         japonkross.vcxproj -> C:\Users\ПК\Documents\Visual Studio 2010\Projects\sudoku v1.0\japonkross\Release\japonkross.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\ПК\Documents\Visual Studio 2010\Projects\sudoku v1.0\japonkross\Release\japonkross.exe;#1" /manifest Release\japonkross.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\japonkross.unsuccessfulbuild" удаляется.
+         Обращение к "Release\japonkross.lastbuildstate".
+     1>Построение проекта "C:\Users\ПК\Documents\Visual Studio 2010\Projects\sudoku v1.0\japonkross\japonkross\japonkross.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.80
